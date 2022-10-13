@@ -1,1 +1,2 @@
-# KOIbots
+# KOIbot
+Jake's Code for KOIbots
